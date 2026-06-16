@@ -22,10 +22,8 @@ export function HomePage() {
         <HeroSection />
         <HeroPromiseBar />
         <ShopByStyleSection />
-        
         <ShowroomSplitSection />
         <AppointmentJourneySection />
-
         <BestSellersSection />
         <BrandCraftSection />
         <EditorialSplitSection />
